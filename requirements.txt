@@ -168,7 +168,7 @@ PyWavelets==1.1.1
 pywin32==227
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==18.1.1
 QtAwesome==0.7.2
 qtconsole @ file:///tmp/build/80754af9/qtconsole_1592848611704/work
