@@ -146,7 +146,7 @@ pycparser==2.20
 pycrypto==2.6.1
 pycurl==7.43.0.5
 pyflakes==2.2.0
-Pygments==2.6.1
+Pygments==2.7.4
 PyJWT==1.7.1
 pylint @ file:///C:/ci/pylint_1592487534522/work
 pyodbc===4.0.0-unsupported
