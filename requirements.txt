@@ -147,7 +147,7 @@ pycrypto==2.6.1
 pycurl==7.43.0.5
 pyflakes==2.2.0
 Pygments==2.6.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint @ file:///C:/ci/pylint_1592487534522/work
 pyodbc===4.0.0-unsupported
 pyOpenSSL==19.1.0
